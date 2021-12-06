@@ -18,7 +18,7 @@ Accessio finds relevant websites, reads, compares and summarises them, to create
  
 <h2>Technology</h2>
  
-Using Artificial Intelligence, Accessio summarizes text from numerous sources such as government documents, advice websites and online forums. 
+Using Artificial Intelligence, Accessio summarises text from numerous sources such as government documents, advice websites and online forums. 
  
 Accessio uses Natural Language Processing algorithms, in a range of supervised and unsupervised models to break down text into instructions, and then maps these into a flow chart.
  
