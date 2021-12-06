@@ -26,6 +26,6 @@ All of Accessio’s flow charts use templates that are compatible with the lates
  
 <h2>Summary</h2>
  
-When starting a new process it can be difficult to understand the steps that need to be followed. In an ever changing world, when we want to do something it’s not always clear what the latest procedure is. To overcome an information overload, Machine Learning helps us handle a growing deluge of documents.
+When starting a new process it can be difficult to understand the steps that need to be followed. In an ever changing world, when we want to do something it’s not always clear what the latest procedure is. To overcome an information overload, Machine Learning helps us handle a growing deluge of documents, websites and forums.
  
 There is an increasing number of data scientists using Natural Language Processing to advance tech’s ability to summarise text. Accessio is different because it focuses primarily on **procedural text**, and processing this into a user friendly, accessible **visual output**.
