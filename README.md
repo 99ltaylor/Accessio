@@ -14,7 +14,7 @@
 * Buy a house?<br>
 * Travel abroad during Covid?<br><br>
  
-Accessio finds relevant websites, reads them, and creates a step-by-step summary of what needs to be done in a visual flow chart.
+Accessio finds relevant websites, reads, compares and summarises them, to create a step-by-step visual flow chart to guide on what needs to be done.
  
 <h2>Technology</h2>
  
