@@ -5,14 +5,14 @@
 <h2 align="center"> Accessio uses Machine Learning to understand the processes of everyday life - it learns how to get you from where you are, to where you want to be.<br><br></h2>
  
 <h3>Disability specific examples</h3>
-* Apply for a blue badge parking permit?<br>
-* Apply for Personal Independence Payments?<br>
-* Apply for a disabled person's bus pass?
+* Apply for a blue badge parking permit<br>
+* Apply for Personal Independence Payments<br>
+* Apply for a disabled person's bus pass
  
 <h3>Broader examples</h3>
-* Apply for a passport?<br>
-* Buy a house?<br>
-* Travel abroad during Covid?<br><br>
+* Apply for a passport<br>
+* Buy a house<br>
+* Travel abroad during Covid<br><br>
  
 Accessio finds relevant websites, reads, compares and summarises them, to create a step-by-step visual user journey map that guides you on what needs to be done, and when.
  
