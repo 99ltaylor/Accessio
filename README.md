@@ -27,7 +27,7 @@ All of Accessio’s user journey maps use templates that are compatible with the
 To be built using Python, or Azure Machine Learning
 
 <h3 align="center">INPUT: text from numerous sources</h3>
-<p align="center"> <img src="https://user-images.githubusercontent.com/61777002/145080251-c1dce432-3f66-421c-bb81-411570b62076.png" alt="still_inputs" /> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/61777002/145097309-abc181da-0d06-4bf6-9a81-ba5697a7b591.png" alt="still_inputs" /> </p>
 <p align="center"> <img width="100" src="https://user-images.githubusercontent.com/61777002/145086586-ca25b590-6565-4a28-9a64-27fa1c3ff354.png" alt="plain_arrow" /> </p>
 <h3 align="center">PROCESS: Accessio Natural Language Processing Technology Stack</h3>
  
