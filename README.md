@@ -26,15 +26,22 @@ All of Accessio’s user journey maps use templates that are compatible with the
 
 To be built using Python, or Azure Machine Learning
 
-<h3>Inputs from numerous offical and unoffical sources</h3>
+<h3 align="center">Inputs from numerous offical and unoffical sources</h3>
 
-<h3>Natural Language Processing</h3>
+<p align="center">
+<img src="https://media.giphy.com/media/pyjTfOfEPbSu3qSSIy/giphy.gif" alt="animation1" />
+</p>
 
-<h3>Example user journey map output</h3>
+<h3 align="center">Natural Language Processing</h3>
+
+<p align="center">
+<img src="https://media.giphy.com/media/pyjTfOfEPbSu3qSSIy/giphy.gif" alt="animation1" />
+</p>
+
+<h3 align="center">Example user journey map output</h3>
 <body align="center">
-  Click to expand image
  <img width="1100" alt="[EHC Plan Application Process]" src="https://user-images.githubusercontent.com/61777002/145069264-c4410ab9-953c-4dbe-b0f8-2e536fd741d7.png">
-
+  Click to expand image
 </body>
 
 <h2>Summary</h2>
