@@ -31,7 +31,7 @@ To be built using Python, or Azure Machine Learning
 <p align="center"> <img width="100" src="https://user-images.githubusercontent.com/61777002/145086586-ca25b590-6565-4a28-9a64-27fa1c3ff354.png" alt="plain_arrow" /> </p>
 <h3 align="center">PROCESS: Accessio Natural Language Processing Technology Stack</h3>
 
-![Colorful moving shapes (Video) (3 x 0 7 in)](https://user-images.githubusercontent.com/61777002/145102926-879b1fa5-71db-4b0b-b33d-1c99e0dc5f21.gif)
+![NLP Process Accessio](https://user-images.githubusercontent.com/61777002/145103951-4c10c050-a56c-4511-bd1f-aa6fba470f13.gif)
 
 <p align="center"> <img width="100" src="https://user-images.githubusercontent.com/61777002/145086586-ca25b590-6565-4a28-9a64-27fa1c3ff354.png" alt="plain_arrow" /> </p>
 <h3 align="center">OUTPUT: Example user journey map - Applying for a young person's Education, Health and Care Plan (UK) </h3>
