@@ -29,7 +29,7 @@ To be built using Python, or Azure Machine Learning
 <h3 align="center">Inputs from numerous sources</h3>
 <p align="center"> <img src="https://user-images.githubusercontent.com/61777002/145080251-c1dce432-3f66-421c-bb81-411570b62076.png" alt="still_inputs" /> </p>
 <p align="center"> <img width="100" src="https://user-images.githubusercontent.com/61777002/145086586-ca25b590-6565-4a28-9a64-27fa1c3ff354.png" alt="plain_arrow" /> </p>
-<h3 align="center">Accessio's Natural Language Processing</h3>
+<h3 align="center">Accessio Natural Language Processing Technology Stack</h3>
  
 ![Colorful moving shapes_test](https://user-images.githubusercontent.com/61777002/145085863-360c9425-e331-4347-9af9-f061f09e0237.gif)
  
