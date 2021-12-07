@@ -35,7 +35,7 @@ To be built using Python, or Azure Machine Learning
 
 <p align="center"> <img width="100" src="https://user-images.githubusercontent.com/61777002/145086586-ca25b590-6565-4a28-9a64-27fa1c3ff354.png" alt="plain_arrow" /> </p>
 <h3 align="center">EXAMPLE OUTPUT: User journey map of applying for a young person's Education, Health and Care Plan (UK) </h3>
-<p align="center"><img width="1100" alt="[EHC Plan Application Process]" src="https://user-images.githubusercontent.com/61777002/145069264-c4410ab9-953c-4dbe-b0f8-2e536fd741d7.png"> Click image to expand</p>
+<p align="center"><img width="1100" alt="[EHC Plan Application Process]" src="https://user-images.githubusercontent.com/61777002/145069264-c4410ab9-953c-4dbe-b0f8-2e536fd741d7.png"> <em>Click image to expand</em></p>
 
 <h2>Summary</h2>
  
