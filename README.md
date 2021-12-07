@@ -24,7 +24,14 @@ Accessio uses Natural Language Processing algorithms, in a range of supervised a
  
 All of Accessio’s flow charts use templates that are compatible with the latest accessibility technology - such as translation tools, screen readers and personalised display preferences - to support users with a range of accessibility needs.
 
-To be built using Python, or Azure Machine Learning 
+To be built using Python, or Azure Machine Learning
+
+<h3>Example output</h3>
+<body align="center">
+  Click to expand image
+ <img width="1100" alt="[EHC Plan Application Process]" src="https://user-images.githubusercontent.com/61777002/145069264-c4410ab9-953c-4dbe-b0f8-2e536fd741d7.png">
+
+</body>
 
 <h2>Summary</h2>
  
