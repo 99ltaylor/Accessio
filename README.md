@@ -14,15 +14,15 @@
 * Buy a house?<br>
 * Travel abroad during Covid?<br><br>
  
-Accessio finds relevant websites, reads, compares and summarises them, to create a step-by-step visual flow chart that guides you on what needs to be done, and when.
+Accessio finds relevant websites, reads, compares and summarises them, to create a step-by-step visual user journey map that guides you on what needs to be done, and when.
  
 <h2>Technology</h2>
  
 Using Artificial Intelligence, Accessio summarises text from numerous sources such as government documents, advice websites and online forums. 
  
-Accessio uses Natural Language Processing algorithms, in a range of supervised and unsupervised models to break down text into instructions, and then maps these into a flow chart.
+Accessio uses Natural Language Processing algorithms, in a range of supervised and unsupervised models to break down text into instructions, and then maps these into a user journey map.
  
-All of Accessio’s flow charts use templates that are compatible with the latest accessibility technology - such as translation tools, screen readers and personalised display preferences - to support users with a range of accessibility needs.
+All of Accessio’s user journey maps use templates that are compatible with the latest accessibility technology - such as translation tools, screen readers and personalised display preferences - to support users with a range of accessibility needs.
 
 To be built using Python, or Azure Machine Learning
 
