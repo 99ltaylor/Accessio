@@ -23,7 +23,9 @@ Using Artificial Intelligence, Accessio summarises text from numerous sources su
 Accessio uses Natural Language Processing algorithms, in a range of supervised and unsupervised models to break down text into instructions, and then maps these into a flow chart.
  
 All of Accessio’s flow charts use templates that are compatible with the latest accessibility technology - such as translation tools, screen readers and personalised display preferences - to support users with a range of accessibility needs.
- 
+
+To be built using Python, or Azure Machine Learning 
+
 <h2>Summary</h2>
  
 When starting a new process it can be difficult to understand the steps that need to be followed. In an ever changing world, when we want to do something it’s not always clear what the latest procedure is. To overcome an information overload, Machine Learning helps us handle a growing deluge of documents, websites and forums.
