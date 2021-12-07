@@ -17,7 +17,7 @@
 Accessio finds relevant websites, reads, compares and summarises them, to create a step-by-step visual user journey map that guides you on what needs to be done, and when.
  
 <h2>Technology</h2>
- 
+
 Using Artificial Intelligence, Accessio summarises text from numerous sources such as government documents, advice websites and online forums. 
  
 Accessio uses Natural Language Processing algorithms, in a range of supervised and unsupervised models to break down text into instructions, and then maps these into a user journey map.
@@ -27,7 +27,7 @@ All of Accessio’s user journey maps use templates that are compatible with the
 To be built using Python, or Azure Machine Learning
 
 <h3 align="center">Inputs from numerous sources</h3>
-
+<p align="center"> <img src="https://user-images.githubusercontent.com/61777002/145080251-c1dce432-3f66-421c-bb81-411570b62076.png" alt="still_inputs" /> </p>
 <p align="center">
 <img src="https://media.giphy.com/media/pyjTfOfEPbSu3qSSIy/giphy.gif" alt="animation1" />
 </p>
