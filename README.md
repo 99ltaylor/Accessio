@@ -34,7 +34,7 @@ To be built using Python, or Azure Machine Learning
 ![Colorful moving shapes_test](https://user-images.githubusercontent.com/61777002/145085863-360c9425-e331-4347-9af9-f061f09e0237.gif)
  
 <p align="center"> <img width="100" src="https://user-images.githubusercontent.com/61777002/145086586-ca25b590-6565-4a28-9a64-27fa1c3ff354.png" alt="plain_arrow" /> </p>
-<h3 align="center">OUTPUT: A user journey map</h3>
+<h3 align="center">OUTPUT: user journey map</h3>
 <p align="center"><img width="1100" alt="[EHC Plan Application Process]" src="https://user-images.githubusercontent.com/61777002/145069264-c4410ab9-953c-4dbe-b0f8-2e536fd741d7.png"> Click to expand image </p>
 
 <h2>Summary</h2>
