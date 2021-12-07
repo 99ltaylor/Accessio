@@ -26,7 +26,7 @@ All of Accessio’s user journey maps use templates that are compatible with the
 
 To be built using Python, or Azure Machine Learning
 
-<h3 align="center">Inputs from numerous offical and unoffical sources</h3>
+<h3 align="center">Inputs from numerous sources</h3>
 
 <p align="center">
 <img src="https://media.giphy.com/media/pyjTfOfEPbSu3qSSIy/giphy.gif" alt="animation1" />
