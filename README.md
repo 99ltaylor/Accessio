@@ -42,3 +42,32 @@ To be built using Python, or Azure Machine Learning
 When starting a new process it can be difficult to understand the steps that need to be followed. In an ever changing world, when we want to do something it’s not always clear what the latest procedure is. To overcome an information overload, Machine Learning helps us handle a growing deluge of documents, websites and forums.
  
 There is an increasing number of data scientists using Natural Language Processing to advance tech’s ability to summarise text. Accessio is different because it focuses primarily on **procedural text**, and processing this into a user friendly, accessible **visual output**.
+
+<h1>DEVELOPMENT</h1>
+
+<h3>User Stories & Feature List</h3>
+
+<h3>Learning & Resources</h3>
+
+Resources:
+ 
+- [ ] LinkedIn course:[NLP with Python for Machine Learning Essential Training](https://www.linkedin.com/learning/nlp-with-python-for-machine-learning-essential-training/what-you-should-know?autoAdvance=true&autoSkip=true&autoplay=true&resume=false)
+- [ ] LinkedIn course:[Unit Testing & Test Driven Development in Python](https://www.linkedin.com/learning/unit-testing-and-test-driven-development-in-python/welcome?autoAdvance=true&autoSkip=false&autoplay=true&resume=true)
+- [ ] Udemy course:[Build a Backend REST API with Python & Django - Advanced](https://www.udemy.com/course/django-python-advanced/)
+- [ ] Azure Machine Learning: Training session
+- [ ] LinkedIn course:[Azure Machine Learning Development: 1 Basic Concepts](https://www.linkedin.com/learning/azure-machine-learning-development-1-basic-concepts/what-you-should-know?autoAdvance=true&autoSkip=true&autoplay=true&resume=false)
+- [ ] LinkedIn course:[Advanced NLP with Python for Machine Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning/leveraging-the-power-of-messy-text-data?autoAdvance=true&autoSkip=false&autoplay=true&resume=true)
+- [ ] LinkedIn course:[Design Thinking: Data Intelligence](https://www.linkedin.com/learning/design-thinking-data-intelligence/welcome?autoAdvance=true&autoSkip=false&autoplay=true&resume=true)
+- [ ] LinkedIn course:[Deep Learning Foundations: Natural Language Processing with TensorFlow](https://www.linkedin.com/learning/deep-learning-foundations-natural-language-processing-with-tensorflow/leveraging-deep-learning-for-natural-language-processing?autoAdvance=true&autoSkip=false&autoplay=true&resume=true)
+- [ ] Makers Algorithm course - see Slack, #Algorithm channel
+- [ ] Book: [Grokking: Algorithms](https://www.manning.com/books/grokking-algorithms)
+- [ ] Book: [Sweigart: Automate the boring stuff with Python](https://automatetheboringstuff.com/)
+- [ ] Netflix: [Black Mirror: “Be Right Back”](https://www.avclub.com/black-mirror-be-right-back-1798178877)
+- [ ] Podcast: [The Reith Lectures, BBC iPlayer Stuart Russell - Living With Artificial Intelligence](https://www.bbc.co.uk/sounds/play/m001216j) 
+
+<h3>Machine Learning Workflow</h3>
+
+![Screenshot 2021-12-07 at 22 26 51](https://user-images.githubusercontent.com/61777002/145180303-22a92b9c-6d0d-4aee-a778-f0fcb40e6394.png)
+
+Source:[Google Cloud tutorial](https://cloud.google.com/ai-platform/docs/ml-solutions-overview?utm_source=youtube&utm_medium=unpaidsoc&utm_campaign=CDR_guo_aiml_nkw8ndu7mjw_010521&utm_content=description 
+)
