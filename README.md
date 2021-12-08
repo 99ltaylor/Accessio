@@ -66,5 +66,5 @@ There is an increasing number of data scientists using Natural Language Processi
 <h2>Machine Learning Workflow</h2>
 
 ![Screenshot 2021-12-07 at 22 26 51](https://user-images.githubusercontent.com/61777002/145180303-22a92b9c-6d0d-4aee-a778-f0fcb40e6394.png)
-Source: [Google Cloud tutorial](https://cloud.google.com/ai-platform/docs/ml-solutions-overview?utm_source=youtube&utm_medium=unpaidsoc&utm_campaign=CDR_guo_aiml_nkw8ndu7mjw_010521&utm_content=description 
+<br>Source: [Google Cloud tutorial](https://cloud.google.com/ai-platform/docs/ml-solutions-overview?utm_source=youtube&utm_medium=unpaidsoc&utm_campaign=CDR_guo_aiml_nkw8ndu7mjw_010521&utm_content=description 
 )
