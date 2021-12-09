@@ -63,6 +63,7 @@ There is an increasing number of data scientists using Natural Language Processi
 - [ ] Book: [Grokking: Algorithms](https://www.manning.com/books/grokking-algorithms)
 - [ ] Book: [Sweigart: Automate the boring stuff with Python](https://automatetheboringstuff.com/)
 - [ ] Netflix: [Black Mirror: “Be Right Back”](https://www.avclub.com/black-mirror-be-right-back-1798178877)
+- [ ] Netflix: [Black Mirror: “Hated in the Nation”](https://law.unimelb.edu.au/news/caide/black-mirrors-hated-in-the-nation-facial-recognition-is-a-weapon)
 - [ ] Podcast: [The Reith Lectures, BBC iPlayer Stuart Russell - Living With Artificial Intelligence](https://www.bbc.co.uk/sounds/play/m001216j) 
 
 <h3>Machine Learning Workflow</h3>
