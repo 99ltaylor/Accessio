@@ -43,7 +43,7 @@ To be built using Python, or Azure Machine Learning
  
 When starting a new process it can be difficult to understand the steps to follow. In an ever changing world, we can't always be certain what the latest procedure is. To overcome an information overload, Machine Learning helps us handle a growing deluge of documents, websites and forums.
  
-There is an increasing number of data scientists using Natural Language Processing to advance tech’s ability to summarise text. Accessio is different because it focuses primarily on **procedural text**, and processing this into a user friendly, accessible **visual output**.
+There is an increasing number of data scientists using Natural Language Processing to advance tech’s ability to summarise text. Accessio is different because it focuses primarily on **procedural text**, and processing this into a user friendly, accessible **summarised output**.
 
 ---
 <h1>Development</h1>
