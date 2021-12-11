@@ -46,9 +46,105 @@ When starting a new process it can be difficult to understand the steps to follo
 There is an increasing number of data scientists using Natural Language Processing to advance tech’s ability to summarise text. Accessio is different because it focuses primarily on **procedural text**, and processing this into a user friendly, accessible **visual output**.
 
 <h1>DEVELOPMENT</h1>
+<h3>User Stories </h3>
+<h4>Basic </h4>
 
-<h3>User Stories & Feature List</h3>
+```
+As a user,
+I want to see a filtered list of relevant assistive technology funding opportunities, 
+So I can narrow my applications to only the opportunities for which I am eligible.
+```
+```
+As a user,
+I want to compare funding opportunities in a table format,
+So I can compare all relevant funding opportunities on one screen.
+```
+```
+As a user,
+I want to have a start to finish, step-by-step customer journey map of the application process,
+So I have no surprises or requests for random pieces of information or evidence.
+```
+<h4>Disability specific</h4>
+<h5><em>Keyboard-Only User</em></h5>
 
+```
+As keyboard-only user,
+I want to be able to reach the main navigation links with a keyboard,
+so that I can determine the different areas of the site.
+```
+```
+As keyboard-only user,
+I want the ability to reach all links (text or image), form controls and page functions,
+so that I can perform an action or navigate to the place I choose.
+```
+```
+As a keyboard-only user,
+I want the ability to use the enter key to open the selected link,
+so that every link on a page is accessible using a keyboard as it would be with a left mouse click.
+```
+```
+As keyboard-only user,
+I want to know where I am on the screen at all times,
+so that I know what I can do and how to do it.
+```
+<h5><em>Screen Reader User</em></h5>
+
+```
+As a screen reader user,
+I want to hear the text equivalent for each image conveying information,
+so that I don’t miss any information on the page.
+```
+```
+As a screen reader user,
+I want to hear the text equivalent for each image button,
+so that I will know what function it performs.
+```
+```
+As a screen reader user,
+I want to understand know what each form label is for each form field,
+so that I can effectively enter the correct information in the form.
+```
+```
+As a screen reader user,
+I want to know what the column and row headers for each table cell,
+so that I can understand the meaning of the data.
+```
+<h5><em>User with Low-Vision</em></h5>
+
+```
+As a user who has trouble reading due to low vision,
+I want to be able to make the text larger on the screen,
+so that I can read it.
+```
+<h5><em>User with Color-blindness</em></h5>
+
+```
+As a user who is color blind,
+I want to have access to information conveyed in color,
+so that I do not miss anything and I understand the content.
+```
+```
+As a user who is color blind,
+I want to links to be distinguishable on the page,
+so that I can find the links and navigate the site.
+```
+```
+As a user who is color blind,
+I want to know what fields are required,
+so that I can fill out the form.
+```
+<h5><em>Hearing Impaired User</em></h5>
+
+```
+As a user who is hearing-impaired,
+I want a transcript of the spoken audio,
+so that I can have access to all information provided in audio clips.
+```
+```
+As a user who is hearing-impaired,
+I want to turn on video captions,
+so that I can understand what is being said in videos.
+```
 <h3>Learning & Resources</h3>
  
 - [ ] LinkedIn course: [NLP with Python for Machine Learning Essential Training](https://www.linkedin.com/learning/nlp-with-python-for-machine-learning-essential-training/what-you-should-know?autoAdvance=true&autoSkip=true&autoplay=true&resume=false)
