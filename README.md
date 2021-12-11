@@ -161,7 +161,7 @@ so that I can understand what is being said in videos.
 </details>
 <h3>Learning & Resources</h3>
 <h4>Accessibility & Assistive Technology</h4>
-<h4>AI, Machine Learning, and Natural Language Processing</h4>
+<h4>AI, Machine Learning, & Natural Language Processing</h4>
 <details>
 <summary>LinkedIn Learning, udemy & Makers Academy</summary>
 <ul>
