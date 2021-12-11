@@ -160,22 +160,34 @@ so that I can understand what is being said in videos.
 ```
 </details>
 <h3>Learning & Resources</h3>
- 
-- [ ] LinkedIn course: [NLP with Python for Machine Learning Essential Training](https://www.linkedin.com/learning/nlp-with-python-for-machine-learning-essential-training/what-you-should-know?autoAdvance=true&autoSkip=true&autoplay=true&resume=false)
-- [ ] LinkedIn course: [Unit Testing & Test Driven Development in Python](https://www.linkedin.com/learning/unit-testing-and-test-driven-development-in-python/welcome?autoAdvance=true&autoSkip=false&autoplay=true&resume=true)
-- [ ] Udemy course: [Build a Backend REST API with Python & Django - Advanced](https://www.udemy.com/course/django-python-advanced/)
-- [ ] Azure Machine Learning: Training session
-- [ ] LinkedIn course: [Azure Machine Learning Development: 1 Basic Concepts](https://www.linkedin.com/learning/azure-machine-learning-development-1-basic-concepts/what-you-should-know?autoAdvance=true&autoSkip=true&autoplay=true&resume=false)
-- [ ] LinkedIn course: [Advanced NLP with Python for Machine Learning](https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning/leveraging-the-power-of-messy-text-data?autoAdvance=true&autoSkip=false&autoplay=true&resume=true)
-- [ ] LinkedIn course: [Design Thinking: Data Intelligence](https://www.linkedin.com/learning/design-thinking-data-intelligence/welcome?autoAdvance=true&autoSkip=false&autoplay=true&resume=true)
-- [ ] LinkedIn course: [Deep Learning Foundations: Natural Language Processing with TensorFlow](https://www.linkedin.com/learning/deep-learning-foundations-natural-language-processing-with-tensorflow/leveraging-deep-learning-for-natural-language-processing?autoAdvance=true&autoSkip=false&autoplay=true&resume=true)
-- [ ] Makers Algorithm course - see Slack, #Algorithm channel
-- [ ] Book: [Grokking: Algorithms](https://www.manning.com/books/grokking-algorithms)
-- [ ] Book: [Sweigart: Automate the boring stuff with Python](https://automatetheboringstuff.com/)
-- [ ] Netflix: [Black Mirror: “Be Right Back”](https://www.avclub.com/black-mirror-be-right-back-1798178877)
-- [ ] Netflix: [Black Mirror: “Hated in the Nation”](https://law.unimelb.edu.au/news/caide/black-mirrors-hated-in-the-nation-facial-recognition-is-a-weapon)
-- [ ] Podcast: [The Reith Lectures, BBC iPlayer Stuart Russell - Living With Artificial Intelligence](https://www.bbc.co.uk/sounds/play/m001216j) 
-
+<details>
+<summary>LinkedIn Learning, udemy & Makers Academy</summary>
+<ul>
+  <li><a href="https://www.linkedin.com/learning/nlp-with-python-for-machine-learning-essential-training/what-you-should-know?autoAdvance=true&autoSkip=true&autoplay=true&resume=false">NLP with Python for Machine Learning Essential Training</a></li>
+<li><a href="https://www.linkedin.com/learning/unit-testing-and-test-driven-development-in-python/welcome?autoAdvance=true&autoSkip=false&autoplay=true&resume=true">Unit Testing & Test Driven Development in Python</a></li>
+<li><a href="https://www.linkedin.com/learning/azure-machine-learning-development-1-basic-concepts/what-you-should-know?autoAdvance=true&autoSkip=true&autoplay=true&resume=false">Azure Machine Learning Development: 1 Basic Concepts</a></li>
+<li><a href="https://www.linkedin.com/learning/advanced-nlp-with-python-for-machine-learning/leveraging-the-power-of-messy-text-data?autoAdvance=true&autoSkip=false&autoplay=true&resume=true">Advanced NLP with Python for Machine Learning</a></li>
+<li><a href="https://www.linkedin.com/learning/design-thinking-data-intelligence/welcome?autoAdvance=true&autoSkip=false&autoplay=true&resume=true">Design Thinking: Data Intelligence</a></li>
+<li><a href="https://www.linkedin.com/learning/deep-learning-foundations-natural-language-processing-with-tensorflow/leveraging-deep-learning-for-natural-language-processing?autoAdvance=true&autoSkip=false&autoplay=true&resume=true">Deep Learning Foundations: Natural Language Processing with TensorFlow</a></li>
+<li><a href="https://www.udemy.com/course/django-python-advanced/">Build a Backend REST API with Python & Django - Advanced</a></li>
+<li><a href="https://makersstudents.slack.com/archives/CJ94H1P6U">Makers Algorithm course - #Algorithm channel on Slack</a></li>
+</ul>
+</details>
+<details>
+<summary>Books</summary>
+<ul>
+<li><a href="https://www.manning.com/books/grokking-algorithms">'Algorithms', by Grokking</a></li>
+<li><a href="https://automatetheboringstuff.com/">'Automate the boring stuff with Python', by Sweigart</a></li>
+</ul>
+</details>
+<details>
+<summary>Videos and Podcasts</summary>
+<ul>
+<li><a href="https://www.avclub.com/black-mirror-be-right-back-1798178877">Netflix - Black Mirror: “Be Right Back”</a></li>
+<li><a href="https://law.unimelb.edu.au/news/caide/black-mirrors-hated-in-the-nation-facial-recognition-is-a-weapon">Netflix - Black Mirror: “Hated in the Nation”</a></li>
+<li><a href="https://www.bbc.co.uk/sounds/play/m001216j">BBC iPlayer, The Reith Lectures, Stuart Russell - Living With Artificial Intelligence</a></li>
+</ul>
+</details>
 <h3>Machine Learning Workflow</h3>
 
 ![Screenshot 2021-12-07 at 22 26 51](https://user-images.githubusercontent.com/61777002/145180303-22a92b9c-6d0d-4aee-a778-f0fcb40e6394.png)
