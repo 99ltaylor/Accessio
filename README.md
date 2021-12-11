@@ -47,7 +47,9 @@ There is an increasing number of data scientists using Natural Language Processi
 
 <h1>DEVELOPMENT</h1>
 <h3>User Stories </h3>
-<h4>Basic </h4>
+
+<details>
+<summary>Basic</summary>
 
 ```
 As a user,
@@ -64,8 +66,11 @@ As a user,
 I want to have a start to finish, step-by-step customer journey map of the application process,
 So I have no surprises or requests for random pieces of information or evidence.
 ```
+</details>
+
 <h4>Disability specific</h4>
-<h5><em>Keyboard-Only User</em></h5>
+<details>
+<summary>Keyboard-Only User</summary>
 
 ```
 As keyboard-only user,
@@ -87,7 +92,9 @@ As keyboard-only user,
 I want to know where I am on the screen at all times,
 so that I know what I can do and how to do it.
 ```
-<h5><em>Screen Reader User</em></h5>
+</details>
+<details>
+<summary>Screen Reader User</summary>
 
 ```
 As a screen reader user,
@@ -109,14 +116,18 @@ As a screen reader user,
 I want to know what the column and row headers for each table cell,
 so that I can understand the meaning of the data.
 ```
-<h5><em>User with Low-Vision</em></h5>
+</details>
+<details>
+<summary>User with Low-Vision</summary>
 
 ```
 As a user who has trouble reading due to low vision,
 I want to be able to make the text larger on the screen,
 so that I can read it.
 ```
-<h5><em>User with Color-blindness</em></h5>
+</details>
+<details>
+<summary>User with Color-blindness</summary>
 
 ```
 As a user who is color blind,
@@ -133,7 +144,9 @@ As a user who is color blind,
 I want to know what fields are required,
 so that I can fill out the form.
 ```
-<h5><em>Hearing Impaired User</em></h5>
+</details>
+<details>
+<summary>Hearing Impaired User</summary>
 
 ```
 As a user who is hearing-impaired,
@@ -145,6 +158,7 @@ As a user who is hearing-impaired,
 I want to turn on video captions,
 so that I can understand what is being said in videos.
 ```
+</details>
 <h3>Learning & Resources</h3>
  
 - [ ] LinkedIn course: [NLP with Python for Machine Learning Essential Training](https://www.linkedin.com/learning/nlp-with-python-for-machine-learning-essential-training/what-you-should-know?autoAdvance=true&autoSkip=true&autoplay=true&resume=false)
