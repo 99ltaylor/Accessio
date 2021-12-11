@@ -195,3 +195,32 @@ so that I can understand what is being said in videos.
 ![Screenshot 2021-12-07 at 22 26 51](https://user-images.githubusercontent.com/61777002/145180303-22a92b9c-6d0d-4aee-a778-f0fcb40e6394.png)
 <br>Source: [Google Cloud tutorial](https://cloud.google.com/ai-platform/docs/ml-solutions-overview?utm_source=youtube&utm_medium=unpaidsoc&utm_campaign=CDR_guo_aiml_nkw8ndu7mjw_010521&utm_content=description 
 )
+
+<details open>
+<summary>Source and prepare your data (Step 1 of 7)</summary>
+ Currently here!
+</details>
+
+<details>
+<summary>Code your model (Step 2 of 7)</summary>
+</details>
+
+<details>
+<summary>Train, evaluate and tune your model (Step 3 of 7)</summary>
+</details>
+
+<details>
+<summary>Deploy your trained model (Step 4 of 7)</summary>
+</details>
+
+<details>
+<summary>Get predictions from your model (Step 5 of 7)</summary>
+</details>
+
+<details>
+<summary>Monitor the ongoing predictions (Step 6 of 7)</summary>
+</details>
+
+<details>
+<summary>Manage your models and versions (Step 7 of 7)</summary>
+</details>
