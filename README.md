@@ -48,7 +48,7 @@ There is an increasing number of data scientists using Natural Language Processi
 ---
 <h1>Development</h1>
 <h3>User Stories </h3>
-<details>
+<details open>
 <summary>Basic</summary>
 
 ```
