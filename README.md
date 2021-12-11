@@ -198,7 +198,7 @@ so that I can understand what is being said in videos.
 
 <details open>
 <summary>Source and prepare your data (Step 1 of 7)</summary>
- 
+ <br>
  Currently here!
 </details>
 
