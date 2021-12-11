@@ -45,9 +45,9 @@ When starting a new process it can be difficult to understand the steps to follo
  
 There is an increasing number of data scientists using Natural Language Processing to advance tech’s ability to summarise text. Accessio is different because it focuses primarily on **procedural text**, and processing this into a user friendly, accessible **visual output**.
 
-<h1>DEVELOPMENT</h1>
+---
+<h1>Development</h1>
 <h3>User Stories </h3>
-
 <details>
 <summary>Basic</summary>
 
