@@ -64,12 +64,20 @@ So I can compare all relevant funding opportunities on one screen.
 ```
 ```
 As a user,
-I want to have a start to finish, step-by-step customer journey map of the application process,
+I want to have a step-by-step list of the entire application process,
 So I have no surprises or requests for random pieces of information or evidence.
 ```
 </details>
-
 <h4>Disability specific</h4>
+<details>
+<summary>Dyslexic User</summary> 
+ 
+```
+As a dyslexic user,
+I want to have a step-by-step customer journey map of the entire application process,
+So I canvisualise the whole process in one image.
+```
+</details>
 <details>
 <summary>Keyboard-Only User</summary>
 
