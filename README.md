@@ -38,14 +38,14 @@ All of Accessio’s step-by-step outputs use templates that will be compatible w
 <h3 align="center">Input: Text from numerous sources</h3>
 <p align="center"> <img src="https://user-images.githubusercontent.com/61777002/145097309-abc181da-0d06-4bf6-9a81-ba5697a7b591.png" alt="still_inputs" /> </p>
 <p align="center"> <img width="100" src="https://user-images.githubusercontent.com/61777002/145086586-ca25b590-6565-4a28-9a64-27fa1c3ff354.png" alt="plain_arrow" /> </p>
-<h3 align="center">Process: Accessio Natural Language Processing Technology Stack</h3>
+<h3 align="center">Process: GPT-3 Natural Language Processing Technology</h3>
 <p align="center">
 
  ![NLP Process Accessio](https://user-images.githubusercontent.com/61777002/145103951-4c10c050-a56c-4511-bd1f-aa6fba470f13.gif)
 
 </p>
 <p align="center"> <img width="100" src="https://user-images.githubusercontent.com/61777002/145086586-ca25b590-6565-4a28-9a64-27fa1c3ff354.png" alt="plain_arrow" /> </p>
-<h3 align="center"> Example Output : User journey map of applying for a young person's Education, Health and Care Plan (UK) </h3>
+<h3 align="center"> Example Output : Step-by-step process of applying for a young person's Education, Health and Care Plan (UK) </h3>
 <p align="center"><img width="1100" alt="[EHC Plan Application Process]" src="https://user-images.githubusercontent.com/61777002/145069264-c4410ab9-953c-4dbe-b0f8-2e536fd741d7.png"> <em>Click image to expand</em></p>
 
 ---
