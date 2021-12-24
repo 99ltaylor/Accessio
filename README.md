@@ -9,13 +9,13 @@ Accessio increases awareness of government benefits, NGO, and private sector fun
  
 <h3>Disability specific examples</h3>
 
-* Apply for Assistive Technology at school, university of your workplace<br>
 * Register with the government for disability benefits<br>
+* Apply for Assistive Technology at a school, university or a workplace<br>
 * Apply for a disabled person's bus pass
  
 <h3>Accessio will do this by:</h3>
 
-* Holding the user’s relevant documents (diagnosis report, doctor’s letters, etc), picking out, and storing key information;
+* Holding the user’s relevant documents (diagnosis report, doctor’s letters, etc), processing, and storing key information;
 * Using relevant user information to support the user completing application forms;
 * Automatically sourcing the latest funding and/or assistive technology opportunities, matching these with the relevant users and providing users with useful notifications.
 
