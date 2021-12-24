@@ -197,6 +197,7 @@ so that I can understand what is being said in videos.
 <li><a href="https://www.avclub.com/black-mirror-be-right-back-1798178877">Netflix - Black Mirror: “Be Right Back”</a></li>
 <li><a href="https://law.unimelb.edu.au/news/caide/black-mirrors-hated-in-the-nation-facial-recognition-is-a-weapon">Netflix - Black Mirror: “Hated in the Nation”</a></li>
 <li><a href="https://www.bbc.co.uk/sounds/play/m001216j">BBC iPlayer, The Reith Lectures, Stuart Russell - Living With Artificial Intelligence</a></li>
+<li><a href="https://deepmind.com/blog/article/welcome-to-the-deepmind-podcast">DeepMind</a></li>
 </ul>
 </details>
 <h3>Machine Learning Workflow</h3>
