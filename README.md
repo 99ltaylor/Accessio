@@ -23,11 +23,9 @@ Accessio increases awareness of government benefits, NGO, and private sector fun
 
 Using Artificial Intelligence, Accessio summarises text from numerous sources such as government documents, advice websites and online forums. 
  
-Accessio uses Natural Language Processing algorithms, in a range of supervised and unsupervised models to break down text into instructions, and then maps these into a user journey map.
- 
-All of Accessio’s user journey maps use templates that are compatible with the latest accessibility technology - such as translation tools, screen readers and personalised display preferences - to support users with a range of accessibility needs.
-
 To be built using GPT-3 as a base.
+ 
+All of Accessio’s step-by-step outputs use templates that will be compatible with the latest accessibility technology - such as translation tools, screen readers and personalised display preferences.
 
 <h3>How Acessio helps to advance tech:</h3>
 
