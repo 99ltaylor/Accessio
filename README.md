@@ -10,30 +10,28 @@ Accessio increases awareness of government benefits, NGO, and private sector fun
 <h3>Disability specific examples</h3>
 
 * Register with the government for disability benefits<br>
-* Apply for Assistive Technology at a school, university or a workplace<br>
+* Apply for Assistive Technology at a school, university or workplace<br>
 * Apply for a disabled person's bus pass
  
 <h3>Accessio does this by:</h3>
 
 * Holding the user’s relevant documents (diagnosis report, doctor’s letters, etc), processing, and storing key information;
-* Using relevant user information to support the user completing application forms;
-* Automatically sourcing the latest funding and/or assistive technology opportunities, matching these with the relevant users and providing users with useful notifications.
+* Using relevant user information to support the user when completing application forms;
+* Automatically sourcing the latest funding and/or assistive technology opportunities, matching these with the relevant users and alerting users via notifications.
 
 <h2>Technology</h2>
 
-Using Artificial Intelligence, Accessio summarises text from numerous sources such as government documents, advice websites and online forums. 
+Accessio uses GPT-3's Natural Language Processing capabilities as it's base. Further to this, it will be trained with specifically selected, and relevant government documents, advice websites and online forums.
+
+Using Artificial Intelligence, Accessio process and summarise the text, deducing meaning relevant to each specific individual person.
  
-To be built using GPT-3 as a base.
- 
-All of Accessio’s step-by-step outputs use templates that will be compatible with the latest accessibility technology - such as translation tools, screen readers and personalised display preferences.
+It will then form a step-by-step output which will use templates that are compatible with the latest accessibility technology - screen readers, personalised display preferences, and translation tools.
 
 <h3>How Acessio helps to advance tech:</h3>
 
 * Training Accessio to recognise the procedural language, ie firstly, then, after this and convert into a step by step process;
 * Reading doctors letters / using online knowledge to understand a specific disability, and what difficulties may be linked to that disability;
 * Reading pdf forms (OCR) and selecting the relevant data from a user’s documents to complete the application form.
-
-
 
 <h3 align="center">Input: Text from numerous sources</h3>
 <p align="center"> <img src="https://user-images.githubusercontent.com/61777002/145097309-abc181da-0d06-4bf6-9a81-ba5697a7b591.png" alt="still_inputs" /> </p>
