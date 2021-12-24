@@ -17,13 +17,15 @@ Accessio increases awareness of government benefits, NGO, and private sector fun
 
 * Holding the user’s relevant documents (diagnosis report, doctor’s letters, etc), processing, and storing key information;
 * Using relevant user information to support the user when completing application forms;
-* Automatically sourcing the latest funding and/or assistive technology opportunities, matching these with the relevant users and alerting users via notifications.
+* Automatically sourcing the latest funding and/or assistive 
+
+nology opportunities, matching these with the relevant users and alerting users via notifications.
 
 <h2>Technology</h2>
 
 Accessio uses GPT-3's Natural Language Processing capabilities as it's base. Further to this, it will be trained with specifically selected, and relevant government documents, advice websites and online forums.
 
-Using Artificial Intelligence, Accessio process and summarise the text, deducing meaning relevant to each specific individual person.
+Accessio processes and summarises the text, it will identify relevant information for each individual user.
  
 It will then form a step-by-step output which will use templates that are compatible with the latest accessibility technology - screen readers, personalised display preferences, and translation tools.
 
