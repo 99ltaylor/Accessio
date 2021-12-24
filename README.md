@@ -2,20 +2,23 @@
 <img src="https://media.giphy.com/media/IIWi4Qwtl5mM9JbMF4/giphy.gif" alt="animation1" />
 </p>
 
-<h2 align="center"> Accessio uses Machine Learning to understand the processes of everyday life - it learns how to get you from where you are, to where you want to be.<br><br></h2>
+<h2 align="center">Accessio, uses GPT-3’s machine learning technology to support differently-abled people into education and/or into the workforce.<br>
+<br></h2>
+
+Accessio increases awareness of government benefits, NGO, and private sector funding opportunities by understanding who its users are, and letting them know which grants or opportunities are available given their specific characteristics and situation.
  
 <h3>Disability specific examples</h3>
-* Apply for a blue badge parking permit<br>
-* Apply for Personal Independence Payments<br>
+
+* Apply for Assistive Technology at school, university of your workplace<br>
+* Register with the government for disability benefits<br>
 * Apply for a disabled person's bus pass
  
-<h3>Broader examples</h3>
-* Apply for a passport<br>
-* Buy a house<br>
-* Travel abroad during Covid<br><br>
- 
-Accessio finds relevant websites, reads, compares and summarises them, to create a step-by-step visual user journey map that guides you on what needs to be done, and when.
- 
+<h3>Accessio will do this by:</h3>
+
+* Holding the user’s relevant documents (diagnosis report, doctor’s letters, etc), picking out, and storing key information;
+* Using relevant user information to support the user completing application forms;
+* Automatically sourcing the latest funding and/or assistive technology opportunities, matching these with the relevant users and providing users with useful notifications.
+
 <h2>Technology</h2>
 
 Using Artificial Intelligence, Accessio summarises text from numerous sources such as government documents, advice websites and online forums. 
@@ -24,7 +27,15 @@ Accessio uses Natural Language Processing algorithms, in a range of supervised a
  
 All of Accessio’s user journey maps use templates that are compatible with the latest accessibility technology - such as translation tools, screen readers and personalised display preferences - to support users with a range of accessibility needs.
 
-To be built using Python, or Azure Machine Learning
+To be built using GPT-3 as a base.
+
+<h3>How Acessio contributes to advancing tech:</h3>
+
+* Training Accessio to recognise the procedural language, ie firstly, then, after this and convert into a step by step process;
+* Reading doctors letters / using online knowledge to understand a specific disability, and what difficulties may be linked to that disability;
+* Reading pdf forms (OCR) and selecting the relevant data from a user’s documents to complete the application form.
+
+
 
 <h3 align="center">Input: Text from numerous sources</h3>
 <p align="center"> <img src="https://user-images.githubusercontent.com/61777002/145097309-abc181da-0d06-4bf6-9a81-ba5697a7b591.png" alt="still_inputs" /> </p>
@@ -38,12 +49,6 @@ To be built using Python, or Azure Machine Learning
 <p align="center"> <img width="100" src="https://user-images.githubusercontent.com/61777002/145086586-ca25b590-6565-4a28-9a64-27fa1c3ff354.png" alt="plain_arrow" /> </p>
 <h3 align="center"> Example Output : User journey map of applying for a young person's Education, Health and Care Plan (UK) </h3>
 <p align="center"><img width="1100" alt="[EHC Plan Application Process]" src="https://user-images.githubusercontent.com/61777002/145069264-c4410ab9-953c-4dbe-b0f8-2e536fd741d7.png"> <em>Click image to expand</em></p>
-
-<h2>Summary</h2>
- 
-When starting a new process it can be difficult to understand the steps to follow. In an ever changing world, we can't always be certain what the latest procedure is. To overcome an information overload, Machine Learning helps us handle a growing deluge of documents, websites and forums.
- 
-There is an increasing number of data scientists using Natural Language Processing to advance tech’s ability to summarise text. Accessio is different because it focuses primarily on **procedural text**, and processing this into a user friendly, accessible **summarised, step-by-step output**.
 
 ---
 <h1>Development</h1>
