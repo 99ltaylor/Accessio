@@ -13,7 +13,7 @@ Accessio increases awareness of government benefits, NGO, and private sector fun
 * Apply for Assistive Technology at a school, university or a workplace<br>
 * Apply for a disabled person's bus pass
  
-<h3>Accessio will do this by:</h3>
+<h3>Accessio does this by:</h3>
 
 * Holding the user’s relevant documents (diagnosis report, doctor’s letters, etc), processing, and storing key information;
 * Using relevant user information to support the user completing application forms;
@@ -29,7 +29,7 @@ All of Accessio’s user journey maps use templates that are compatible with the
 
 To be built using GPT-3 as a base.
 
-<h3>How Acessio contributes to advancing tech:</h3>
+<h3>How Acessio helps to advance tech:</h3>
 
 * Training Accessio to recognise the procedural language, ie firstly, then, after this and convert into a step by step process;
 * Reading doctors letters / using online knowledge to understand a specific disability, and what difficulties may be linked to that disability;
