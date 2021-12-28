@@ -29,7 +29,7 @@ It will then form a step-by-step output which will use templates that are compat
 
 <h3>Why GPT-3 NLP technology?</h3>
 
-DRAFT -- NLP is a fast moving area of AI development. Despite huge interest in GPT-3, Open AI's most capable tech released in... there has already been advances. With Chinese... and ... DeepMind's .... The latter, is interesting because it uses a different more specific streucture of Machine Learning, which is argued to be more specific or precise, and more accessible/ easy to set up than a GPT-3 model, because it has a lower resource requirement. 
+DRAFT |-- NLP is a fast moving area of AI development. Despite huge interest in GPT-3, Open AI's most capable tech released in... there has already been advances. With Chinese... and ... DeepMind's .... The latter, is interesting because it uses a different more specific streucture of Machine Learning, which is argued to be more specific or precise, and more accessible/ easy to set up than a GPT-3 model, because it has a lower resource requirement. --|
 
 
 
