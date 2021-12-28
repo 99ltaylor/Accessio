@@ -27,6 +27,12 @@ Accessio processes and summarises the text, it will identify relevant informatio
  
 It will then form a step-by-step output which will use templates that are compatible with the latest accessibility technology - screen readers, personalised display preferences, and translation tools.
 
+<h3>Why GPT-3 NLP technology?</h3>
+
+NLP is a fast moving area of AI development. Despite huge interest in GPT-3, Open AI's most capable tech released in... there has already been advances. With Chinese... and ... DeepMind's .... The latter, is interesting because it uses a different more specific streucture of Machine Learning, which is argued to be more specific or precise, and more accessible/ easy to set up than a GPT-3 model, because it has a lower resource requirement. 
+
+
+
 <h3>How Acessio helps to advance tech:</h3>
 
 * Training Accessio to recognise the procedural language, ie firstly, then, after this and convert into a step by step process;
