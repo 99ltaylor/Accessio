@@ -17,9 +17,7 @@ Accessio increases awareness of government benefits, NGO, and private sector fun
 
 * Holding the user’s relevant documents (diagnosis report, doctor’s letters, etc), processing, and storing key information;
 * Using relevant user information to support the user when completing application forms;
-* Automatically sourcing the latest funding and/or assistive 
-
-nology opportunities, matching these with the relevant users and alerting users via notifications.
+* Automatically sourcing the latest funding and/or assistive technology opportunities, matching these with the relevant users and alerting users via notifications.
 
 <h2>Technology</h2>
 
