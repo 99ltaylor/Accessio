@@ -5,7 +5,7 @@
 <h2 align="center">Accessio, uses GPT-3’s machine learning technology to support differently-abled people into education and/or into the workforce.<br>
 <br></h2>
 
-Accessio increases awareness of government benefits, NGO, and private sector funding opportunities by understanding who its users are, and letting them know which grants or opportunities are available given their specific characteristics and situation.
+Accessio increases awareness of government benefits, NGO, and private sector funding opportunities by understanding who its users are, and letting them know which grants or opportunities are available given their individual situation.
  
 <h3>Disability specific examples</h3>
 
@@ -21,9 +21,7 @@ Accessio increases awareness of government benefits, NGO, and private sector fun
 
 <h2>Technology</h2>
 
-Accessio uses GPT-3's Natural Language Processing capabilities as it's base. Further to this, it will be trained with specifically selected, and relevant government documents, advice websites and online forums.
-
-Accessio processes and summarises the text, it will identify relevant information for each individual user.
+Accessio uses GPT-3's Natural Language Processing capabilities as it's base for understanding human language. It will then be trained with specifically selected information on disabilities. This will include documents, application instructions and application forms to undertstand relevant processes and requirements of applying for government assistance, and/or for training oppurtunities.
  
 It will then form a step-by-step output which will use templates that are compatible with the latest accessibility technology - screen readers, personalised display preferences, and translation tools.
 
