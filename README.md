@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/IIWi4Qwtl5mM9JbMF4/giphy.gif" alt="animation1" />
 </p>
 
-<h2 align="center">Accessio, uses GPT-3’s machine learning technology to support differently-abled people into education and/or into the workforce.<br>
+<h2 align="center">Accessio, uses AI technology to support differently-abled people into education and/or into the workforce.<br>
 <br></h2>
 
 Accessio increases awareness of government benefits, NGO, and private sector funding opportunities by understanding who its users are, and letting them know which grants or opportunities are available given their individual situation.
@@ -21,26 +21,20 @@ Accessio increases awareness of government benefits, NGO, and private sector fun
 
 <h2>Technology</h2>
 
-Accessio uses GPT-3's Natural Language Processing capabilities as it's base for understanding human language. It will then be trained with specifically selected information on disabilities. This will include documents, application instructions and application forms to undertstand relevant processes and requirements of applying for government assistance, and/or for training oppurtunities.
+Accessio uses Natural Language Processing datasets as it's base for understanding human language. Then it is trained with specifically selected information on disabilities. This will include documents, application instructions and application forms to undertstand relevant processes and requirements of applying for government assistance, and/or for training oppurtunities.
  
-It will then form a step-by-step output which will use templates that are compatible with the latest accessibility technology - screen readers, personalised display preferences, and translation tools.
-
-<h3>Why GPT-3 NLP technology?</h3>
-
-DRAFT |-- NLP is a fast moving area of AI development. Despite huge interest in GPT-3, Open AI's most capable tech released in... there has already been advances. With Chinese... and ... DeepMind's .... The latter, is interesting because it uses a different more specific streucture of Machine Learning, which is argued to be more specific or precise, and more accessible/ easy to set up than a GPT-3 model, because it has a lower resource requirement. --|
-
-
+It can output a step-by-step template that is compatible with accessibility technology - screen readers, personalised display preferences, and translation tools.
 
 <h3>How Acessio helps to advance tech:</h3>
 
 * Training Accessio to recognise the procedural language, ie firstly, then, after this and convert into a step by step process;
 * Reading doctors letters / using online knowledge to understand a specific disability, and what difficulties may be linked to that disability;
-* Reading pdf forms (OCR) and selecting the relevant data from a user’s documents to complete the application form.
+* Reading pdf forms and selecting the relevant data from a user’s documents to complete the application form.
 
 <h3 align="center">Input: Text from numerous sources</h3>
 <p align="center"> <img src="https://user-images.githubusercontent.com/61777002/145097309-abc181da-0d06-4bf6-9a81-ba5697a7b591.png" alt="still_inputs" /> </p>
 <p align="center"> <img width="100" src="https://user-images.githubusercontent.com/61777002/145086586-ca25b590-6565-4a28-9a64-27fa1c3ff354.png" alt="plain_arrow" /> </p>
-<h3 align="center">Process: GPT-3 Natural Language Processing Technology</h3>
+<h3 align="center">Process: Natural Language Processing Technology</h3>
 <p align="center">
 
  ![NLP Process Accessio](https://user-images.githubusercontent.com/61777002/145103951-4c10c050-a56c-4511-bd1f-aa6fba470f13.gif)
