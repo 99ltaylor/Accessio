@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/IIWi4Qwtl5mM9JbMF4/giphy.gif" alt="animation1" />
 </p>
 
-<h2 align="center">Accessio, uses AI to support differently-abled people into education and/or into the workforce.<br>
+<h2 align="center">Using AI to support differently-abled people into education and/or into the workforce.<br>
 <br></h2>
 
 Accessio increases awareness of government benefits, NGO, and private sector funding opportunities by understanding who its users are, and letting them know which grants or opportunities are available given their individual situation.
