@@ -6,11 +6,13 @@
 <br></h2>
 
 <h3>Problem</h3>
-In Jamaica, only 15% of the population living with disabilities are registered to receive their eligible benefits & support. Thousands of people, like my Aunt Angela, go unsupported. People face technical difficulties in the registration process. Speech recognition technology can help. However, current technology doesn’t understand Jamaican Patois because AI algorithms are not trained with relevant Jamaican Patois datasets.
+In Jamaica, <a href="https://jis.gov.jm/a-range-of-benefits-available-for-persons-with-disabilities">only 15% of the population living with disabilities are registered</a> to receive their eligible benefits & support. Thousands of people, like my Aunt Angela, go unsupported. People face technical difficulties in the registration process. Speech recognition technology can help. However, current technology doesn’t understand Jamaican Patois because <a href="https://joelbeckles.medium.com/using-ai-for-caribbean-dialect-classification-and-predictive-text-d9ebbbc26dc6"> AI algorithms are not trained with relevant Jamaican Patois datasets</a>.
+ 
+ 
  
 <h3>Solution</h3>
 
-Accessio will develop NLP Jamaican Patois datasets. The datasets will be used to train AI. For the first time, people with disabilities, who speak Jamaican Patois will also be able to access assistive technologies using their native language.
+Accessio will develop an NLP Jamaican Patois dataset. The datasets will be used to train AI on the necessary language and knowledge required to specifically understand having a disability in the Jamaican context. For the first time, people with disabilities, who speak Jamaican Patois will also be able to access speech-based assistive technologies using their native language.
 
 Accessio is an open-source web app that can be used on smartphones or web browsers.
  
