@@ -36,7 +36,7 @@ NLP, AI and future technologies to come, should be accessible to everyone, no ma
 
 <h3>Process</h3>
 <ul>User's speech is converted to text.</ul>
-<ul>Text is converted to NLP tokens and processed through transformers specifically trained to understand Jamaican Patois.</ul>
+<ul>Text is converted to NLP tokens and processed through transformers specifically trained with understanding Jamaican Patois.</ul>
 
 <h3>Output</h3>
 <ul>Accessio provides an appropriate response.</ul>
