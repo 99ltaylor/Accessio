@@ -16,9 +16,9 @@ Accessio is an open-source web app that can be used on smartphones or web browse
  
 <h3>Landscape</h3>
 
-In 2022, tech’s biggest NLP firms (DeepMind, open-ai, Hugging Face) will take steps to improve the use and development of Natural Language Processing technology.
+In 2022, AI’s biggest names (DeepMind, open-ai, Hugging Face) will take steps to improve the use and development of Natural Language Processing technology.
 
-However, current AI tech is trained on traditional written sources such as newspapers, books, and articles which use standard, formal forms of language. A language is rarely spoken in exactly the same way by everyone, and different groups of people will have their own accent, dialect, slang, etc.
+However, current NLP tech is trained on traditional written sources such as newspapers, books, and articles which use standard, formal forms of language. A language is rarely spoken in exactly the same way by everyone, and different groups of people will have their own accent, dialect, slang, etc.
 
 NLP is yet to be developed for Jamaican Patois and other Caribbean languages and dialects.
 
@@ -28,11 +28,11 @@ NLP is yet to be developed for Jamaican Patois and other Caribbean languages and
 * Accessio listens to the user.
 
 <h3>Process</h3>
-* Speech is converted to text.
-* The text is converted to NLP tokens and processed through NLP transformers that are specifically trained to understand Jamaican Patois.
+* The user's speech is converted to text.
+* The text is converted to NLP tokens and processed through transformers specifically trained to understand Jamaican Patois.
 
 <h3>Output</h3>
-* Appropriate response.
+* Accessio provides an appropriate response.
 
 <h2>7-Step Machine Learning Workflow</h2>
 
@@ -43,8 +43,8 @@ NLP is yet to be developed for Jamaican Patois and other Caribbean languages and
 <details open>
 <summary>Step 1: Source & prepare data</summary>
  <br>
-<ul> Primary research - convening, and recording honest conversations about living with disabilities in Jamaica</ul>
-<ul>Secondary research - collecting documents related to disabilities in Jamaica - ie disability-specific information sheets, on disability in the focuses on collecting Voice conversation data is collected through</ul>
+<ul>Primary research: Facilitate and capture honest, open conversations about living with a full range of disabilities in Jamaica.</ul>
+<ul>Secondary research: Collect relevant disabilities information to be used to train Accessio on facts, figures and process relasted to specific disabilities.</ul>
 </details>
 
 <details>
