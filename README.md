@@ -24,7 +24,7 @@ Accessio is an open-source web app that can be used on smartphones or web browse
 
 
 
-In 2022, AI’s biggest names (<a href="https://deepmind.com/">DeepMind</a>, <a href="https://openai.com/">open-ai</a>, <a href="https://huggingface.co/">Hugging Face</a>) will further improve the use and development of NLP technology.
+In 2022, AI’s biggest names (<a href="https://deepmind.com/">DeepMind</a>, <a href="https://openai.com/">Open-AI</a>, <a href="https://huggingface.co/">Hugging Face</a>) will further improve the use and development of NLP technology.
 
 However, current algorithms are trained on traditional written sources such as newspapers, books, and articles which use standard, formal structures of language. A language is rarely spoken in exactly the same way by everyone, and people have their own accents, dialects, and slang, etc.
 
