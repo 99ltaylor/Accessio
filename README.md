@@ -6,7 +6,7 @@
 <br></h2>
 
 <h3>Problem</h3>
-In Jamaica, only 15% of the population living with disabilities are registered to receive their eligible benefits & support. Thousands of people, like my Aunt Angela, go unsupported. People face technical difficulties in the registration process. Speech recognition technology can help. However, current technology doesn’t understand Jamaican Patois because AI algorithms are not trained with relevant Jamaican Patois and disability-specific datasets.
+In Jamaica, only 15% of the population living with disabilities are registered to receive their eligible benefits & support. Thousands of people, like my Aunt Angela, go unsupported. People face technical difficulties in the registration process. Speech recognition technology can help. However, current technology doesn’t understand Jamaican Patois because AI algorithms are not trained with relevant Jamaican Patois datasets.
  
 <h3>Solution</h3>
 
