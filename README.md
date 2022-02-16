@@ -6,7 +6,7 @@
 <br></h2>
 
 <h3>Problem</h3>
-In Jamaica, <a href="https://jis.gov.jm/a-range-of-benefits-available-for-persons-with-disabilities">only 15% of the population living with disabilities are registered</a> to receive their eligible benefits & support. Thousands of people, like my Aunt Angela, go unsupported. People face technical difficulties in the registration process. Speech recognition technology can help. However, current technology doesn’t understand Jamaican Patois because <a href="https://joelbeckles.medium.com/using-ai-for-caribbean-dialect-classification-and-predictive-text-d9ebbbc26dc6"> AI algorithms are not trained with relevant Jamaican Patois datasets</a>.
+In Jamaica, <a href="https://jis.gov.jm/a-range-of-benefits-available-for-persons-with-disabilities">only 15% of the population living with disabilities are registered</a> to receive their eligible benefits & support. Thousands of people go unsupported. People face <a href=https://jamaica-gleaner.com/article/letters/20200506/re-registration-process-persons-disabilities-cumbersome> difficulties with the registration process</a>. Speech recognition technology can help. However, current technology doesn’t understand Jamaican Patois because <a href="https://joelbeckles.medium.com/using-ai-for-caribbean-dialect-classification-and-predictive-text-d9ebbbc26dc6"> AI algorithms are not trained with relevant Jamaican Patois datasets</a>.
  
  
  
