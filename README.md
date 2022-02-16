@@ -27,19 +27,19 @@ Jamaican Patois (3.2 million speakers)
 Trinidadian Creole (1 million speakers)
 Haitian Creole (9.6 million speakers)
 
-NLP and the accessbility and assistive technologies associated with it, should be used for everyone. No matter a person's language.
+NLP, AI and future technologies to come, should be accessible to everyone, no matter a person's language. Accessio aims to include a large number of people who are currently on the edge of this technology, unable to access all of the benefits and oppurutnities that exist.
 
 <h2>The Tech</h2>
 
 <h3>Input</h3>
-* Accessio listens to the user.
+<ul>Accessio listens to the user.</ul>
 
 <h3>Process</h3>
-* User's speech is converted to text.
-* Text is converted to NLP tokens and processed through transformers specifically trained to understand Jamaican Patois.
+<ul>User's speech is converted to text.</ul>
+<ul>Text is converted to NLP tokens and processed through transformers specifically trained to understand Jamaican Patois.</ul>
 
 <h3>Output</h3>
-* Accessio provides an appropriate response.
+<ul>Accessio provides an appropriate response.</ul>
 
 <h2>7-Step Machine Learning Workflow</h2>
 
