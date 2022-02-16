@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/IIWi4Qwtl5mM9JbMF4/giphy.gif" alt="animation1" />
 </p>
 
-<h2 align="center">Training Natural Language Processing Artificial Intelligence (NLP) to support people with additional needs into education and/or into the workforce, no matter their spoken language or dialect.<br>
+<h2 align="center">Training Artificial Intelligence to support people with additional needs into education and/or into the workforce, no matter their spoken language or dialect.<br>
 <br></h2>
 
 <h3>Problem</h3>
@@ -10,7 +10,7 @@ In Jamaica, only 15% of the population living with disabilities are registered t
  
 <h3>Solution</h3>
 
-Accessio will develop NLP Jamaican Patois datasets. The datasets will be used to train  For the first time, people with disabilities, who speak Jamaican Patois will also be able to access assistive technologies using their native language.
+Accessio will develop NLP Jamaican Patois datasets. The datasets will be used to train AI. For the first time, people with disabilities, who speak Jamaican Patois will also be able to access assistive technologies using their native language.
 
 Accessio is an open-source web app that can be used on smartphones or web browsers.
  
@@ -18,16 +18,16 @@ Accessio is an open-source web app that can be used on smartphones or web browse
 
 In 2022, AI’s biggest names (DeepMind, open-ai, Hugging Face) will further improve the use and development of NLP technology.
 
-However, current algorithms are trained on traditional written sources such as newspapers, books, and articles which use standard, formal structures of language. A language is rarely spoken in exactly the same way by everyone, and in reality people have their own accents, dialects, and slang, etc.
+However, current algorithms are trained on traditional written sources such as newspapers, books, and articles which use standard, formal structures of language. A language is rarely spoken in exactly the same way by everyone, and people have their own accents, dialects, and slang, etc.
 
-NLP is yet to be developed for Jamaican Patois and other Caribbean languages and dialects. Their is a growing community of developers working on development of NLP models for African languages, Chinese and Korean languages are also major steps forward.
+NLP is yet to be developed for Jamaican Patois and other Caribbean languages and dialects. There's a community of NLP developing models for other languages - such as Chinese, Korean and numerous African languages.
 
-There are currently 3 major Caribbean languages which have no existing NLP datasets. These are:
+There are currently 3 major Caribbean languages with no existing NLP datasets:
 <ul>Haitian Creole (9.6 million speakers)</ul>
 <ul>Jamaican Patois (3.2 million speakers)</ul>
 <ul>Trinidadian Creole (1 million speakers)</ul>
 
-NLP, AI and future technologies to come, should be accessible to everyone, no matter a person's language. Accessio aims to include a large number of people who are currently on the edge of this technology, unable to access all of the benefits and oppurutnities that exist.
+Accessio allows millions of native speakers to be included and benefit from future AI developments.
 
 <h2>The Tech</h2>
 
