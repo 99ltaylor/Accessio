@@ -10,7 +10,7 @@ In Jamaica, only 15% of the population living with disabilities are registered t
  
 <h3>Solution</h3>
 
-Accessio will develop NLP datasets for Jamaican Patois. For the first time, people with disabilities, who speak Jamaican Patois will also be able to access assistive technologies using their native language.
+Accessio will develop NLP Jamaican Patois datasets. The datasets will be used to train  For the first time, people with disabilities, who speak Jamaican Patois will also be able to access assistive technologies using their native language.
 
 Accessio is an open-source web app that can be used on smartphones or web browsers.
  
