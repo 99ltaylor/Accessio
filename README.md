@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/IIWi4Qwtl5mM9JbMF4/giphy.gif" alt="animation1" />
 </p>
 
-<h2 align="center">Training Natural Language Processing AI (NLP) to support people with additional needs into education and/or into the workforce, no matter their spoken language or dialect.<br>
+<h2 align="center">Training Natural Language Processing Artificial Intelligence (NLP) to support people with additional needs into education and/or into the workforce, no matter their spoken language or dialect.<br>
 <br></h2>
 
 <h3>Problem</h3>
