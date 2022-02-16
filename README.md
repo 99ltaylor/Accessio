@@ -28,8 +28,8 @@ NLP is yet to be developed for Jamaican Patois and other Caribbean languages and
 * Accessio listens to the user.
 
 <h3>Process</h3>
-* The user's speech is converted to text.
-* The text is converted to NLP tokens and processed through transformers specifically trained to understand Jamaican Patois.
+* User's speech is converted to text.
+* Text is converted to NLP tokens and processed through transformers specifically trained to understand Jamaican Patois.
 
 <h3>Output</h3>
 * Accessio provides an appropriate response.
