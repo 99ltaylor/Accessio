@@ -2,34 +2,76 @@
 <img src="https://media.giphy.com/media/IIWi4Qwtl5mM9JbMF4/giphy.gif" alt="animation1" />
 </p>
 
-<h2 align="center">Using AI to support people with additional needs into education and/or into the workforce.<br>
+<h2 align="center">Training Natural Language Processing AI (NLP) to support people with additional needs into education and/or into the workforce, no matter their spoken language or dialect.<br>
 <br></h2>
 
-Accessio increases awareness of government benefits, NGO, and private sector funding opportunities by understanding who its users are, and letting them know which grants or opportunities are available given their individual situation.
+<h3>Problem</h3>
+In Jamaica, only 15% of the population living with disabilities are registered to receive their eligible benefits & support. Thousands of people, like my Aunty Angela, go unsupported. People face technical difficulties in the registration process. Speech recognition technology can help. However, current technology doesn’t understand Jamaican Patois because AI algorithms are not trained with relevant datasets.
  
-<h3>Disability specific examples</h3>
+<h3>Solution</h3>
 
-* Register with the government for disability benefits<br>
-* Apply for Assistive Technology at a school, university or workplace<br>
-* Apply for a disabled person's bus pass
+Accessio will develop NLP datasets for Jamaican Patois. For the first time, people with disabilities, who speak Patois as their first language, will also be able to access assistive technologies using their native language.
+
+Accessio is an open-source web app that can be used on smartphones or web browsers. See ‘Technology’ below for more details.
  
-<h3>Accessio does this by:</h3>
+<h3>Landscape</h3>
 
-* Holding the user’s relevant documents (diagnosis report, doctor’s letters, etc), processing, and storing key information;
-* Using relevant user information to support the user when completing application forms;
-* Automatically sourcing the latest funding and/or assistive technology opportunities, matching these with the relevant users and alerting users via notifications.
+In 2022, tech’s biggest NLP firms (DeepMind, open-ai, Hugging Face) will take steps to improve the use and development of Natural Language Processing technology.
+
+However, current AI tech is trained on traditional written sources such as newspapers, books, and articles which use standard, formal forms of language. A language is rarely spoken in exactly the same way by everyone, and different groups of people will have their own accent, dialect, slang, etc.
+
+NLP is yet to be developed for Jamaican Patois and other Caribbean languages and dialects.
 
 <h2>Technology</h2>
 
-Accessio uses Natural Language Processing datasets as it's base for understanding human language. Then it is trained with specifically selected information on disabilities. This will include documents, application instructions and application forms to undertstand relevant processes and requirements of applying for government assistance, and/or for training oppurtunities.
- 
-It can output a step-by-step template that is compatible with accessibility technology - screen readers, personalised display preferences, and translation tools.
+<h3>Input</h3>
+* Accessio listens to the user.
 
-<h3>How Acessio helps to advance tech:</h3>
+<h3>Process</h3>
+* Speech is converted to text.
+* The text is converted to NLP tokens and processed through NLP transformers that are specifically trained to understand Jamaican Patois.
 
-* Training Accessio to recognise the procedural language, ie firstly, then, after this and convert into a step by step process;
-* Reading doctors letters / using online knowledge to understand a specific disability, and what difficulties may be linked to that disability;
-* Reading pdf forms and selecting the relevant data from a user’s documents to complete the application form.
+<h3>Output</h3>
+* Appropriate response.
+
+<h2>7-Step Machine Learning Workflow</h2>
+
+![Screenshot 2021-12-07 at 22 26 51](https://user-images.githubusercontent.com/61777002/145180303-22a92b9c-6d0d-4aee-a778-f0fcb40e6394.png)
+<br>Source: [Google Cloud tutorial](https://cloud.google.com/ai-platform/docs/ml-solutions-overview?utm_source=youtube&utm_medium=unpaidsoc&utm_campaign=CDR_guo_aiml_nkw8ndu7mjw_010521&utm_content=description 
+)
+
+<details open>
+<summary>Step 1: Source & prepare data</summary>
+ <br>
+<ul> Primary research - convening, and recording honest conversations about living with disabilities in Jamaica</ul>
+<ul>Secondary research - collecting documents related to disabilities in Jamaica - ie disability-specific information sheets, on disability in the focuses on collecting Voice conversation data is collected through</ul>
+</details>
+
+<details>
+<summary>Step 2: Code your model</summary>
+</details>
+
+<details>
+<summary>Step 3: Train, evaluate and tune your model</summary>
+</details>
+
+<details>
+<summary>Step 4: Deploy your trained model</summary>
+</details>
+
+<details>
+<summary>Step 5: Get predictions from your model</summary>
+</details>
+
+<details>
+<summary>Step 6: Monitor the ongoing predictions</summary>
+</details>
+
+<details>
+<summary>Step 7: Manage your models and versions</summary>
+</details>
+
+
 
 <h3 align="center">Input: Text from numerous sources</h3>
 <p align="center"> <img src="https://user-images.githubusercontent.com/61777002/145097309-abc181da-0d06-4bf6-9a81-ba5697a7b591.png" alt="still_inputs" /> </p>
@@ -197,39 +239,4 @@ so that I can understand what is being said in videos.
 <li><a href="https://www.bbc.co.uk/sounds/play/m001216j">BBC iPlayer, The Reith Lectures, Stuart Russell - Living With Artificial Intelligence</a></li>
 <li><a href="https://deepmind.com/blog/article/welcome-to-the-deepmind-podcast">DeepMind</a></li>
 </ul>
-</details>
-<h3>Machine Learning Workflow</h3>
-
-![Screenshot 2021-12-07 at 22 26 51](https://user-images.githubusercontent.com/61777002/145180303-22a92b9c-6d0d-4aee-a778-f0fcb40e6394.png)
-<br>Source: [Google Cloud tutorial](https://cloud.google.com/ai-platform/docs/ml-solutions-overview?utm_source=youtube&utm_medium=unpaidsoc&utm_campaign=CDR_guo_aiml_nkw8ndu7mjw_010521&utm_content=description 
-)
-
-<details open>
-<summary>Source and prepare your data (Step 1 of 7)</summary>
- <br>
- Currently here!
-</details>
-
-<details>
-<summary>Code your model (Step 2 of 7)</summary>
-</details>
-
-<details>
-<summary>Train, evaluate and tune your model (Step 3 of 7)</summary>
-</details>
-
-<details>
-<summary>Deploy your trained model (Step 4 of 7)</summary>
-</details>
-
-<details>
-<summary>Get predictions from your model (Step 5 of 7)</summary>
-</details>
-
-<details>
-<summary>Monitor the ongoing predictions (Step 6 of 7)</summary>
-</details>
-
-<details>
-<summary>Manage your models and versions (Step 7 of 7)</summary>
 </details>
