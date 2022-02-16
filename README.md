@@ -10,17 +10,23 @@ In Jamaica, only 15% of the population living with disabilities are registered t
  
 <h3>Solution</h3>
 
-Accessio will develop NLP datasets for Jamaican Patois. For the first time, people with disabilities, who speak Jamaican Patois will also be able to access assistive technologies their native language.
+Accessio will develop NLP datasets for Jamaican Patois. For the first time, people with disabilities, who speak Jamaican Patois will also be able to access assistive technologies using their native language.
 
-Accessio is an open-source web app that can be used on smartphones or web browsers. See ‘The Tech’ for more details.
+Accessio is an open-source web app that can be used on smartphones or web browsers.
  
 <h3>Landscape</h3>
 
-In 2022, AI’s biggest names (DeepMind, open-ai, Hugging Face) will take steps to improve the use and development of Natural Language Processing technology.
+In 2022, AI’s biggest names (DeepMind, open-ai, Hugging Face) will further improve the use and development of NLP technology.
 
-However, current NLP tech is trained on traditional written sources such as newspapers, books, and articles which use standard, formal forms of language. A language is rarely spoken in exactly the same way by everyone, and different groups of people will have their own accent, dialect, slang, etc.
+However, current algorithms are trained on traditional written sources such as newspapers, books, and articles which use standard, formal structures of language. A language is rarely spoken in exactly the same way by everyone, and in reality people have their own accents, dialects, and slang, etc.
 
-NLP is yet to be developed for Jamaican Patois and other Caribbean languages and dialects.
+NLP is yet to be developed for Jamaican Patois and other Caribbean languages and dialects. Their is a growing community of developers working on development of NLP models for African languages, Chinese and Korean languages are also major steps forward.
+
+There are approximatly ... different languages spoken in the Caribbean region. These include:
+Jamaican Patois (2 million speakers)
+Trinidadian Patois (1 million speakers)
+
+NLP and the accessbility and assistive technologies associated with it, should be used for everyone. No matter a person's language.
 
 <h2>The Tech</h2>
 
@@ -73,21 +79,21 @@ NLP is yet to be developed for Jamaican Patois and other Caribbean languages and
 
 
 
-<h3 align="center">Input: Text from numerous sources</h3>
+<h3 align="center">Input</h3>
 <p align="center"> <img src="https://user-images.githubusercontent.com/61777002/145097309-abc181da-0d06-4bf6-9a81-ba5697a7b591.png" alt="still_inputs" /> </p>
 <p align="center"> <img width="100" src="https://user-images.githubusercontent.com/61777002/145086586-ca25b590-6565-4a28-9a64-27fa1c3ff354.png" alt="plain_arrow" /> </p>
-<h3 align="center">Process: Natural Language Processing Technology</h3>
+<h3 align="center">Process</h3>
 <p align="center">
 
  ![NLP Process Accessio](https://user-images.githubusercontent.com/61777002/145103951-4c10c050-a56c-4511-bd1f-aa6fba470f13.gif)
 
 </p>
 <p align="center"> <img width="100" src="https://user-images.githubusercontent.com/61777002/145086586-ca25b590-6565-4a28-9a64-27fa1c3ff354.png" alt="plain_arrow" /> </p>
-<h3 align="center"> Example Output : Step-by-step process of applying for a young person's Education, Health and Care Plan (UK) </h3>
+<h3 align="center">Output (visual example) : Step-by-step process of applying for a young person's Education, Health and Care Plan (UK) </h3>
 <p align="center"><img width="1100" alt="[EHC Plan Application Process]" src="https://user-images.githubusercontent.com/61777002/145069264-c4410ab9-953c-4dbe-b0f8-2e536fd741d7.png"> <em>Click image to expand</em></p>
 
 ---
-<h1>Development</h1>
+<h2>Development</h2>
 <h3>User Stories </h3>
 <details open>
 <summary>Basic</summary>
