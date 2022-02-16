@@ -28,9 +28,6 @@ In 2022, AI’s biggest names (<a href="https://deepmind.com/">DeepMind</a>, <a 
 
 However, current algorithms are trained on traditional written sources such as newspapers, books, and articles which use standard, formal structures of language. A language is rarely spoken in exactly the same way by everyone, and people have their own accents, dialects, and slang, etc.
 
-
-
-
 NLP is yet to be developed for Jamaican Patois and other Caribbean languages and dialects. There's a community of NLP developing models for other languages - such as <a href="https://chinesenlp.xyz/#/">Chinese</a>, <a href="https://konlpy.org/en/latest/">Korean</a> and numerous <a href="https://www.masakhane.io/">African languages</a>.
 
 There are currently 3 major Caribbean languages with no existing NLP datasets:
@@ -38,7 +35,7 @@ There are currently 3 major Caribbean languages with no existing NLP datasets:
 <ul>Jamaican Patois (3.2 million speakers)</ul>
 <ul>Trinidadian Creole (1 million speakers)</ul>
 
-Accessio allows millions of native speakers to be included and benefit from future AI developments.
+Accessio is a first step in allowing millions of Caribbean native speakers to be included and benefit from future AI developments.
 
 <h2>The Tech</h2>
 
