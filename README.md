@@ -23,8 +23,9 @@ However, current algorithms are trained on traditional written sources such as n
 NLP is yet to be developed for Jamaican Patois and other Caribbean languages and dialects. Their is a growing community of developers working on development of NLP models for African languages, Chinese and Korean languages are also major steps forward.
 
 There are approximatly ... different languages spoken in the Caribbean region. These include:
-Jamaican Patois (2 million speakers)
-Trinidadian Patois (1 million speakers)
+Jamaican Patois (3.2 million speakers)
+Trinidadian Creole (1 million speakers)
+Haitian Creole (9.6 million speakers)
 
 NLP and the accessbility and assistive technologies associated with it, should be used for everyone. No matter a person's language.
 
