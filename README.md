@@ -59,7 +59,7 @@ Accessio is a first step in allowing millions of Caribbean native speakers to be
 <summary>Step 1: Source & prepare data</summary>
  <br>
 <ul>Primary research: Facilitate and capture honest, open conversations about living with a full range of disabilities in Jamaica.</ul>
-<ul>Secondary research: Collect relevant disabilities information to be used to train Accessio on facts, figures and process relasted to specific disabilities.</ul>
+<ul>Secondary research: Collect relevant disabilities information to train Accessio on facts, figures and process relasted to specific disabilities.</ul>
 </details>
 
 <details>
