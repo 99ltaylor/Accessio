@@ -35,8 +35,6 @@ There are currently 3 major Caribbean languages with no existing NLP datasets:
 <ul>Jamaican Patois (3.2 million speakers)</ul>
 <ul>Trinidadian Creole (1 million speakers)</ul>
 
-Accessio is a first step in allowing millions of Caribbean native speakers to be included and benefit from future AI developments.
-
 <h2>The Tech</h2>
 
 <h3>Input</h3>
