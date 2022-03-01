@@ -13,16 +13,8 @@ In Jamaica, <a href="https://jis.gov.jm/a-range-of-benefits-available-for-person
 <h3>Solution</h3>
 
 Accessio will develop an NLP Jamaican Patois dataset, that will become the basis of the necessary language and knowledge required to specifically understand having a disability in the Jamaican context. For the first time, people with disabilities, who speak Jamaican Patois will also be able to access speech-based assistive technologies using their native language.
-
-Accessio is an open-source web app that can be used on smartphones or web browsers.
  
 <h3>Landscape</h3>
-
-
-
-
-
-
 
 In 2022, AI’s biggest names (<a href="https://deepmind.com/">DeepMind</a>, <a href="https://openai.com/">Open-AI</a>, <a href="https://huggingface.co/">Hugging Face</a>) will further improve the use and development of NLP technology.
 
@@ -36,6 +28,8 @@ There are currently 3 major Caribbean languages with no existing NLP datasets:
 <ul>Trinidadian Creole (1 million speakers)</ul>
 
 <h2>The Tech</h2>
+
+Accessio is an open-source web app that can be used on smartphones or web browsers.
 
 <h3>Input</h3>
 <ul>Accessio listens to the user.</ul>
